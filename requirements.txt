@@ -1,0 +1,8 @@
+alembic>=0.9.6 # MIT
+pbr!=2.1.0,>=2.0.0 # Apache-2.0
+SQLAlchemy>=1.2.19 # MIT
+SQLAlchemy-Utils>=0.30.11
+Flask>=2.0.0 # BSD License
+oslo.db[mysql]>=8.3.0 # Apache-2.0
+oslo.config>=5.2.0 # Apache-2.0
+oslo.log>=3.36.0 # Apache-2.0
